@@ -18,7 +18,7 @@ coverage==5.5
 cryptography==3.4.7
 Cython==0.29.24
 Flask==1.1.2
-flatbuffers==20210226132247
+flatbuffers
 gast==0.4.0
 google-auth==1.33.0
 google-auth-oauthlib==0.4.1
